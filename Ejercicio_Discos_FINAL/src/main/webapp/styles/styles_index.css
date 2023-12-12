@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/*
+Estilos de la pagina Index.
+*/
+
+section{
+	background-color:var(--colorFondoOscuro);
+	height:120px;
+	width: 300px;
+		
+}
